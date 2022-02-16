@@ -1,0 +1,21 @@
+.tachado {
+    text-decoration: line-through;
+}
+.container-fluid {
+    background-color: rgb(157, 184, 8);
+}
+.jumbotron{
+    background-color: rgb(157, 184, 8);
+    text-align: center;
+}
+.space{
+    padding-top: 5%;
+    
+}
+.display-4{
+    color: white;
+}
+.card-img-top{
+    width: 200;
+    height: 150;
+}
